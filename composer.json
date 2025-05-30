@@ -1,0 +1,15 @@
+{
+    "name": "sszas/test",
+    "autoload": {
+        "psr-4": {
+            "Sszas\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Stanisław Szast",
+            "email": "s.szast@wp.pl"
+        }
+    ],
+    "require": {}
+}
